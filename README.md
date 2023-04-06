@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 1st year computer science student at WSB-NLU. For several months I started learning HTML, CSS, JavaScript and Angular.<br>My interests are travel and nature films, volleyball, Greek cuisine.
+I am a computer science student at WSB-NLU. For several months I started learning HTML, CSS, JavaScript and Angular.<br>My interests are travel and nature films, volleyball, Greek cuisine.
 
 
 ## 🌐 Socials:
